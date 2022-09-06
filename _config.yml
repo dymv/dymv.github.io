@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://eugenedym.com"
 date_format: "%b %-d, %Y"
 header_pages:
- - 
+ - wave.md
 
 # Google services
 google_verification:

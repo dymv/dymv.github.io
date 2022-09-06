@@ -1,5 +1,5 @@
 # Site settings
-title:       blog
+title:       eugenedym
 email:
 author:      eugene
 description: ""
@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://eugenedym.com"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
+ - 
 
 # Google services
 google_verification:
@@ -100,7 +100,7 @@ text:
     minute_read:    'minute read'
     related_posts:  'Related Posts'
   index:
-    coming_soon: 'Coming soon...'
+    coming_soon: '👋'
   contact:
     email:    'Email Address'
     content:  'What would you like to say?'
